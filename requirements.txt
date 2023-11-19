@@ -1,0 +1,5 @@
+streamlit==0.88.0
+openai==0.12.3
+python-dotenv==0.19.5
+PyPDF2==1.26.0
+langchain==0.1.0
